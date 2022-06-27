@@ -17,7 +17,7 @@ This Glossary provides a vendor-neutral platform to organize a shared vocabulary
 Contributions are welcome from all participants who abide by the project's purpose and charter.
 
 Anyone who wishes to make a contribution may submit a GitHub issue or create a pull request. 
-Please ensure you follow the [Style Guide](/style-guide/), read the [How To Contribute](/contribute/) doc, and join the #glossary channel on the CNCF Slack.
+Please ensure you follow the [Style Guide](/style-guide/), read the [How To Contribute](/contribute/) doc, and join the #glossary channel on the CNCF Slack. 
 There is also a #glossary-localizations channel for those who want to help translate the glossary into their native language.
 
 ## Acknowledgements
