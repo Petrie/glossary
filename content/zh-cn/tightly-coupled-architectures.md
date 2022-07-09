@@ -1,19 +1,17 @@
 ---
 title: 紧耦合架构
 status: Completed
-category: Property
+category: 属性
 ---
 
-Tightly coupled architecture is an architectural style where a number of application components are interdependent 
-(the opposite paradigm of [loosely coupled architectures](/loosely-coupled-architecture/)). 
-This means that a change in one component will likely impact other components. 
-It is generally easier to implement than more loosely coupled architectural styles, 
-but can leave a system more vulnerable to cascading failures. 
-They also tend to require coordinated rollouts of components 
-which can become a drag on developer productivity.
-
-Tightly coupled application architectures are a fairly traditional way of building applications. 
-While not necessarily consistent with all the best practices of [microservice](/microservices/) development 
-they can be useful in specific circumstances. 
-They tend to be faster and simpler to implement and 
-much like [monolithic applications](/monolithic-apps/) they can speed up the initial development cycle.
+紧耦合架构（[松耦合架构]（/zh/loosely-coupled-architecture/）的相反范式）是一种架构风格， 
+其中许多应用程序组件相互依赖。 
+这意味着一个组件的更改可能会影响其他组件。 
+它通常比松耦合架构更容易实现， 
+但会使系统更容易受到级联故障的影响。 
+它还意味着需要协调各个组件的部署， 
+这可能会拖累开发人员的生产力。 
+紧耦合应用程序架构是一种相当传统的应用程序构建方式。 
+在某些特定情况下，当我们不需要与[微服务](/zh/microservices/) 开发的所有最佳实践一致时，它将变得很有用。
+这意味着更快、更简单地实现， 
+和[单体应用](/zh/monolithic-apps/)很像 ，可以加快最初的开发周期。 
