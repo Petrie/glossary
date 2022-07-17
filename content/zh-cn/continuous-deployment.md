@@ -1,7 +1,7 @@
 ---
-title: Continuous Deployment (CD)
+title: 持续部署 (CD)
 status: Completed
-category: concept
+category: 概念
 ---
 
 ## 是什么
@@ -16,7 +16,7 @@ category: concept
 
 通过自动化发布周期并迫使团队更频繁地发布版本到生产环境，CD 为运维团队完成了 CI 为开发团队所做的事情。具体来说，它迫使运维团队将生产部署中痛苦且容易出错的部分自动化，从而降低整体风险。它还使团队能够更好地接受和适应生产环境变化，从而提高稳定性。
 
-## Related terms
+## 相关术语
 
-- [Continuous Integration](/continuous-integration/)
-- [Continuous Delivery](/continuous-delivery/)
+- [持续集成](/continuous-integration/)
+- [持续交付](/continuous-delivery/)
