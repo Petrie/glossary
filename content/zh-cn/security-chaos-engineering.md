@@ -6,14 +6,14 @@ category: 概念
 
 ## 这是什么
 
-Security Chaos Engineering or SCE is a discipline based on [Chaos Engineering](/chaos-engineering/). SCE performs proactive security experimentation on a distributed system to build confidence in the system's capability to withstand turbulent and malicious conditions. Security chaos engineers use scientific method loops to achieve this, including steady-state, hypothesis, continuous verification, lesson learned, and mitigation implementation.
+安全混沌工程（SCE） 是基于[混沌工程](/chaos-engineering/)的学科。 SCE 是指在分布式系统上执行主动安全实验，以建立对系统抵御动荡和恶意条件的能力的信心。安全混沌工程师使用科学方法来不断实现这一点，这些方法包括稳态、假设、持续验证、经验教训和缓解实施。
 
-## Problem it addresses
+## 解决的问题
 
-The main priority for [site reliability engineers](/site-reliability-engineering/) (SREs) and cyber security engineers is to restore service as fast as possible with the goal of achieving zero downtime and minimizing business impact. SREs and cyber security engineers deal both with pre-failure and post-failure incidents situations. Most security issues are challenging to discover and patch quickly, impacting application or system functionality. Additionally, security incidents are usually tricky to uncover during the development phase.
+[网站稳定性工程师](/site-reliability-engineering/)（SRE） 和网络安全工程师的主要职责是尽快恢复服务，来达到零停机时间和最小化业务影响的目标。 SRE 和网络安全工程师共同处理故障前和故障后的各种意外情况。大多数安全问题很难快速发现和修补，这将影响应用程序或系统功能。此外，在开发阶段通常很难发现安全事件。
 
-## How it helps
+## 如何帮助
 
-Security Chaos Engineering is built around [observability](/observability/) and cyber resiliency practices. It aims to uncover the "unknown unknowns" and build confidence in the system, increasing cyber resiliency and improving observability.
+安全混沌工程是围绕[可观察性](/observability/)和网络弹性实践构建的。它旨在发现“不知道不知道问题”并建立对系统的信心，提高网络弹性和可观察性。
 
 工程团队将逐步提高对复杂基础设施、平台和分布式系统中安全问题的理解。 SCE 提高了整个产品的网络弹性，发现隐藏的安全问题，暴露经典盲点，并让团队为关键的边缘案例做好准备。这种方法有助于 SRE、 [DevOps](/devops/)和[DevSecOps](/devsecops/)工程师建立对系统的信心，提高网络弹性并提高可观察性。
