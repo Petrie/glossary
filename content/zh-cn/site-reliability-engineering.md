@@ -1,17 +1,17 @@
 ---
-title: Site Reliability Engineering
+title: 网站稳定性工程师（SRE)
 status: Completed
 category: 概念
 ---
 
 ## 这是什么
 
-Site Reliability Engineering or SRE is a discipline that combines operations and software engineering. The latter is applied to infrastructure and operations problems, specifically. Meaning, instead of building product features, Site Reliability Engineers build systems to run applications. There are similarities with DevOps, but while DevOps focuses on getting code to production, SRE ensures that code running in production works properly.
+网站可靠性工程（SRE） 是一门结合运营和软件工程的学科。后者特别适用于基础设施和运营问题。这意味着，网站可靠性工程师不是构建产品功能，而是构建系统来运行应用程序。与 DevOps 有相似之处，但 DevOps 专注于将代码投入生产环境，而 SRE 是确保在生产环境中运行的代码正常工作。
 
-## Problem it addresses
+## 解决的问题
 
 确保应用程序可靠运行需要多种功能，从性能监控、警报、调试到故障排除。没有这些，系统操作员只能对问题做出反应，而不是主动努力避免它们——停机只是时间问题。
 
-## How it helps
+## 如何帮助
 
-An SRE approach minimizes the cost, time, and effort of the software development process by continuously improving the underlying system. The system continuously measures and monitors the infrastructure and application components. When something goes wrong, the system points Site Reliability Engineers to when, where, and how to fix it. This approach helps create highly scalable and reliable software systems by automating operational tasks.
+网站可靠性工程通过不断改进底层系统来最小化软件开发过程的成本、时间和工作量。该系统持续测量和监控基础设施和应用程序组件。当出现问题时，系统会提示网站可靠性工程师何时、何地以及如何修复它。这种方法通过自动化任务来帮助创建高度可扩展和可靠的软件系统。
