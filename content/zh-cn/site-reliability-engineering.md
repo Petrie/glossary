@@ -1,7 +1,7 @@
 ---
 title: 网站可靠性工程（SRE)
 status: Completed
-category: concept
+category: 概念
 ---
 
 ## 是什么
@@ -10,7 +10,7 @@ category: concept
 
 ## 解决的问题
 
-Ensuring applications run reliably requires multiple capabilities, from performance monitoring, alerting, debugging to troubleshooting. Without these, system operators can only react to problems vs. proactively working towards avoiding them — downtime only becomes a matter of time.
+确保应用程序可靠运行需要多种功能，从性能监控、警报、调试到故障排除。没有这些，系统操作员只能对问题做出反应，而不是主动努力避免它们——停机只是时间问题。
 
 ## 如何帮助
 
