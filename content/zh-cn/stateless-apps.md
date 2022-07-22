@@ -3,7 +3,7 @@ title: 无状态应用
 status: 感谢反馈
 category: 技术
 tags:
-  - fundamentals
+  - 基本原理
  "- ''"
  "- ''"
 ---
