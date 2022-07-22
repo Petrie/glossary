@@ -3,21 +3,21 @@ title: 裸机
 status: Completed
 category: 技术
 tags:
-  - infrastructure
+  - 基础设施
  "- ''"
  "- ''"
 ---
 
 ## 这是什么
 
-Bare metal refers to a physical computer, more specifically a server, that has one, and only one, operating system. The distinction is important in modern computing because many, if not most, servers are [virtual machines](/virtual-machine/). A physical server is typically a fairly large computer with powerful hardware built-in. Installing an operating system and running applications directly on that physical hardware, without [virtualization](/virtualization/), is referred to as running on “bare metal.”
+裸机是指一台物理计算机，更具体地说是一台服务器，它只有一个操作系统。这种区分在现代计算中很重要，因为许多（几乎是大多数）服务器都是[虚拟机](/virtual-machine/)。物理服务器通常是一台相当大的计算机，内置强大的硬件。直接在该物理硬件上安装操作系统并运行应用程序，无需[虚拟化](/virtualization/)，称为在“裸机”上运行。
 
-## Problem it addresses
+## 解决的问题
 
 将一个操作系统与一台物理计算机配对是计算的原始模式。物理计算机的所有资源都可直接用于操作系统，并且不存在虚拟化层，将操作系统指令转换为硬件不会人为延迟。
 
-## How it helps
+## 如何帮助
 
-By dedicating all compute resources of a computer to a single operating system, you potentially provide the best possible performance to the operating system. If you need to run a workload that must have extremely fast access to hardware resources, bare metal may be the right solution.
+通过将计算机的所有计算资源专用于单个操作系统，这可能会为操作系统提供最好的性能。如果您需要运行必须极快地访问硬件资源的工作负载，裸机可能是正确的解决方案。
 
-In the context of [cloud native apps](/cloud-native-apps/), we generally think of performance in terms of [scaling](/scalability/) to a large number of concurrent events, which can be handled by [horizontal scaling](/horizontal-scaling/) (adding more machines to your resource pool). But some workloads may require [vertical scaling](/vertical-scaling/) (adding more power to an existing physical machine) and/or an extremely fast physical hardware response in which case bare metal is better suited. Bare metal also allows you to tune the physical hardware and possibly even hardware drivers to help accomplish your task.
+在[云原生应用程序](/cloud-native-apps/)的上下文中，我们通常将性能认为是[扩展](/scalability/)到大量并发事件，这可以通过[水平扩展](/horizontal-scaling/)（将更多机器添加到您的资源池）来处理。但是某些工作负载可能需要[垂直扩展](/vertical-scaling/)（为现有物理机增加更多功率）和/或极快的物理硬件响应，在这种情况下，裸机更适合。裸机还允许您调整物理硬件，甚至可能是硬件驱动程序，以帮助完成您的任务。
