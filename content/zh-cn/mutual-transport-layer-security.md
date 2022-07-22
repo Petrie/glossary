@@ -1,7 +1,7 @@
 ---
 title: 双向传输层安全性协议（mTLS）
 status: Completed
-category: Concept
+category: 概念
 tags:
   - 安全
  "- ''"
