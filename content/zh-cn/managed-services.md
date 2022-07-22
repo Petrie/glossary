@@ -1,7 +1,7 @@
 ---
 title: 托管服务
 status: Completed
-category: Technology
+category: 技术
 tags:
  "- ''"
  "- ''"
@@ -14,8 +14,8 @@ tags:
 
 ## 解决的问题
 
-Managing software is complex, especially considering all the different technologies that make up a modern stack. Managing each aspect of it and/or having in-house experts able to do so may be too expensive or not worth your engineers' time. Your team is likely better off building new capabilities than taking care of the operational tasks that can be easily outsourced.
+管理软件很复杂，尤其是考虑到构成现代堆栈的所有不同技术。管理它的各个方面和/或让内部专家能够这样做可能太昂贵或不值得您的工程师花费时间。您的团队可能会更好地构建新功能，而不是处理可以轻松外包的运营任务。
 
 ## 提供帮助
 
-Managed services are ready to use from day one with very little operational overhead. They allow organizations to effectively outsource tasks that fall outside of their core competency with well defined, and usually [API](/application-programming-interface/) driven, boundaries.
+托管服务从一开始就可以使用，而且运营开销非常小。它们允许组织有效地将超出其核心能力范围的任务外包出去，并具有明确定义且通常由[API](/application-programming-interface/)驱动的边界。
