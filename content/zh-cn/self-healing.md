@@ -1,10 +1,10 @@
 ---
-title: Self Healing
+title: 自愈
 status: 完全的
-category: property
+category: 属性
 tags:
-  - infrastructure
-  - architecture
+  - 基础设施
+  - 架构
  "- ''"
 ---
 
